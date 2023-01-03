@@ -15,11 +15,6 @@ A simple ToDo app because I don't want to install one. I'm also using it in a Wi
 * SQL Alchemy.
 * Semantic UI.
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 * Start your term with
@@ -29,7 +24,7 @@ python app.py
 
 ## Help
 
-Remember to define what we're going to use, remember, **set** is for Windows environment:
+Remember to define what we're going to use in our terminal, also, **set** is for Windows environment:
 ```
 set FLASK_APP=app.py
 set FLASK_ENV=development
