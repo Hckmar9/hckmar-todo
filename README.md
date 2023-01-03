@@ -35,5 +35,5 @@ set FLASK_APP=app.py
 set FLASK_ENV=development
 ```
 
-## Authors
+## Author
 [Tere Díaz](https://about.me/terediaz)
